@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Rafael</h1>
 <h3 align="center">Desenvolvo aplicações web, front e backend e minha filosofia é a aprendizagem contínua</h3>
 <br>
-<p align="center"> 📫 Como falar comigo **reis.rafael18@gmail.com**</p>
+<p align="center"> 📫 Como falar comigo <b>reis.rafael18@gmail.com</b></p>
 <br>
   
 
